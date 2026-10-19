@@ -1,0 +1,24 @@
+{
+  "name": "PikPok - Short Videos",
+  "short_name": "PikPok",
+  "description": "Watch, create, and earn from short videos",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/WhatsApp_Image_2026-10-16_at_9.16.39_PM.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/WhatsApp_Image_2026-10-16_at_9.16.39_PM.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
